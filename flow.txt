@@ -1,0 +1,29 @@
+START
+
+Display Available Stocks
+        ↓
+User Enters Stock Name
+        ↓
+Valid Stock?
+ ├── No → Show Error
+ └── Yes
+        ↓
+Enter Quantity
+        ↓
+Calculate Value
+        ↓
+Add To Portfolio
+        ↓
+Add Another Stock?
+ ├── Yes → Repeat
+ └── No
+        ↓
+Display Portfolio Summary
+        ↓
+Calculate Total Investment
+        ↓
+Save To CSV?
+ ├── Yes → Save File
+ └── No
+        ↓
+END

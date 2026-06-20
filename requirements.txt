@@ -1,0 +1,36 @@
+PROJECT: Stock Portfolio Tracker
+
+GOAL
+-----
+Build a simple stock portfolio tracker that calculates
+total investment value using predefined stock prices.
+
+CORE FEATURES
+-------------
+1. Use a hardcoded dictionary of stock prices.
+2. User enters stock name.
+3. User enters quantity.
+4. Calculate stock investment value.
+5. Display portfolio value.
+
+EXTRA FEATURES
+--------------
+1. Allow multiple stocks.
+2. Input validation.
+3. Portfolio summary.
+4. Save report to CSV file.
+
+STOCK DATA
+----------
+AAPL = 180
+TSLA = 250
+GOOG = 150
+MSFT = 400
+AMZN = 170
+
+CODE REQUIREMENTS
+-----------------
+1. Use functions.
+2. Add comments.
+3. Beginner-friendly code.
+4. Clean console output.
